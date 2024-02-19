@@ -15,7 +15,7 @@ This project is not just about solving problems, but understanding the underlyin
 
 The repository is organized by topics, with each major section dedicated to a specific data structure or algorithm theme:
 
-[Arrays and Strings](/data_structures_and_algorithms/tree/main/arrays_and_strings)
+[Arrays and Strings](data_structures_and_algorithms/tree/main/arrays_and_strings)
 - More to come...
 
 Within each directory, you'll find a README detailing the problems tackled, solutions, and reflections on the learning process.
