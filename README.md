@@ -15,13 +15,10 @@ This project is not just about solving problems, but understanding the underlyin
 
 The repository is organized by topics, with each major section dedicated to a specific data structure or algorithm theme:
 
-- Arrays and Strings
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
-- etc.
+[Arrays and Strings](/data_structures_and_algorithms/arrays_and_strings)
+- More to come...
 
-Within each directory, you'll find a README detailing the problems tackled, along with solutions and explanations.
+Within each directory, you'll find a README detailing the problems tackled, solutions, and reflections on the learning process.
 
 ## How to Use This Repository
 
